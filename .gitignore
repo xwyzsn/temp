@@ -1,0 +1,6 @@
+*.sql
+*.parquet
+parquet_files/
+weather_data/
+taxi_zones*
+*.db
