@@ -12,4 +12,16 @@
 
 
 
-## TODO:// 
+## TODO:
+
+1. bonus: Test needed; [NOT]
+
+2. table type and primary key should be checked; [DONE]
+
+3. docuement need to be enhanced. [DONE]
+
+4. the way download the data?  [DDNE]
+
+5. check the correctness of value;  [DONE]
+
+6. bonus: sunset table and one more vis? [NOT]
