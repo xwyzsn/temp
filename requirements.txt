@@ -1,0 +1,12 @@
+tqdm
+sqlalchemy
+ipywidgets
+scipy
+bs4
+matplotlib
+plotly
+pandas
+requests
+seaborn
+geopandas
+folium
